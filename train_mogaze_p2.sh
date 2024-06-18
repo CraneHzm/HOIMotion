@@ -1,0 +1,7 @@
+python main_mogaze_pose_forecasting.py --data_dir /scratch/hu/pose_forecast/mogaze_hoimotion/ --ckpt ./checkpoints/mogaze_p2/ --cuda_idx cuda:0 --test_id 2 --train_sample_rate 2 --epoch 80 --velocity_loss 1 --object_num_static 2 --object_num_dynamic 2 --object_node_static 5 --object_node_dynamic 5 --head_node_n 5 --use_dct 1;
+
+python main_mogaze_pose_forecasting.py --data_dir /scratch/hu/pose_forecast/mogaze_hoimotion/ --ckpt ./checkpoints/mogaze_p2/ --cuda_idx cuda:0 --test_id 2 --train_sample_rate 2 --epoch 80 --velocity_loss 1 --object_num_static 2 --object_num_dynamic 2 --object_node_static 5 --object_node_dynamic 5 --head_node_n 5 --use_dct 1 --is_eval --actions 'all';
+
+python main_mogaze_pose_forecasting.py --data_dir /scratch/hu/pose_forecast/mogaze_hoimotion/ --ckpt ./checkpoints/mogaze_p2/ --cuda_idx cuda:0 --test_id 2 --train_sample_rate 2 --epoch 80 --velocity_loss 1 --object_num_static 2 --object_num_dynamic 2 --object_node_static 5 --object_node_dynamic 5 --head_node_n 5 --use_dct 1 --is_eval --actions 'pick';
+
+python main_mogaze_pose_forecasting.py --data_dir /scratch/hu/pose_forecast/mogaze_hoimotion/ --ckpt ./checkpoints/mogaze_p2/ --cuda_idx cuda:0 --test_id 2 --train_sample_rate 2 --epoch 80 --velocity_loss 1 --object_num_static 2 --object_num_dynamic 2 --object_node_static 5 --object_node_dynamic 5 --head_node_n 5 --use_dct 1 --is_eval --actions 'place';
