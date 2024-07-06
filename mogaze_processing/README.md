@@ -25,6 +25,5 @@ Step 3: It is optional but highly recommended to set 'data_path' in 'dataset_vis
 	volume={6},
 	number={2},
 	pages={367--373},
-	year={2020},
-	publisher={IEEE}}
+	year={2020}}
 ```
