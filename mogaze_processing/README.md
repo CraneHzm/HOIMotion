@@ -16,9 +16,8 @@ Step 3: It is optional but highly recommended to set 'data_path' in 'dataset_vis
 	author={Hu, Zhiming and Yin, Zheming and Haeufle, Daniel and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes}, 
-	year={2024}
-}
-
+	year={2024}}
+	
 @article{kratzer2020mogaze,
 	title={MoGaze: A dataset of full-body motions that includes workspace geometry and eye-gaze},
 	author={Kratzer, Philipp and Bihlmaier, Simon and Midlagajni, Niteesh Balachandra and Prakash, Rohit and Toussaint, Marc and Mainprice, Jim},
@@ -27,6 +26,5 @@ Step 3: It is optional but highly recommended to set 'data_path' in 'dataset_vis
 	number={2},
 	pages={367--373},
 	year={2020},
-	publisher={IEEE}
-}
+	publisher={IEEE}}
 ```

@@ -22,14 +22,12 @@ Step 5: It is optional but highly recommended to set 'data_path' in 'dataset_vis
 	author={Hu, Zhiming and Yin, Zheming and Haeufle, Daniel and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes}, 
-	year={2024}
-}
-			
+	year={2024}}
+	
 @inproceedings{pan2023aria,
   title={Aria digital twin: A new benchmark dataset for egocentric 3d machine perception},
   author={Pan, Xiaqing and Charron, Nicholas and Yang, Yongqian and Peters, Scott and Whelan, Thomas and Kong, Chen and Parkhi, Omkar and Newcombe, Richard and Ren, Yuheng Carl},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   pages={20133--20143},
-  year={2023}
-}
+  year={2023}}
 ```
