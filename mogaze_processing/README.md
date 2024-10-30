@@ -12,7 +12,7 @@ Step 3: It is optional but highly recommended to set 'data_path' in 'dataset_vis
 ## Citations
 
 ```bibtex
-@article{hu24_hoimotion,
+@article{hu24hoimotion,
 	author={Hu, Zhiming and Yin, Zheming and Haeufle, Daniel and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes}, 

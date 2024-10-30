@@ -41,7 +41,7 @@ Step 4: Set 'data_dir' and 'cuda_idx' in 'train_adt.sh' to evaluate. By default,
 ## Citation
 
 ```bibtex
-@article{hu24_hoimotion,
+@article{hu24hoimotion,
 	author={Hu, Zhiming and Yin, Zheming and Haeufle, Daniel and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes}, 
