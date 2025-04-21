@@ -14,7 +14,7 @@ Taken together, these results reveal the significant information content availab
 ```
 
 
-## Environments:
+## Environment:
 Ubuntu 22.04
 python 3.8+
 pytorch 1.8.1
@@ -24,7 +24,7 @@ cudatoolkit 11.1
 ## Usage:
 Step 1: Create the environment
 ```
-conda env create -f ./environments/hoimotion.yaml -n hoimotion
+conda env create -f ./environment/hoimotion.yaml -n hoimotion
 conda activate hoimotion
 ```
 
