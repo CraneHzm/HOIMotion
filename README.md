@@ -45,5 +45,9 @@ Step 4: Set 'data_dir' and 'cuda_idx' in 'train_adt.sh' to evaluate. By default,
 	author={Hu, Zhiming and Yin, Zheming and Haeufle, Daniel and Schmitt, Syn and Bulling, Andreas},
 	journal={IEEE Transactions on Visualization and Computer Graphics}, 
 	title={HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes}, 
-	year={2024}}
+	year={2024},
+	volume={30},
+	number={11},
+	pages={7375--7385},
+	doi={10.1109/TVCG.2024.3456161}}
 ```
